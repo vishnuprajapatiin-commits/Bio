@@ -1,2 +1,2 @@
 # Bio
-A Brief information about me &lt;br> Includes my skill and projects.
+A Brief information about me <br> Includes my skill and projects.
